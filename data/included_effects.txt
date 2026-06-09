@@ -104,6 +104,7 @@ box_blur
 boxblur
 brightness
 charcoal
+choppy
 chroma
 chroma_hold
 crop
