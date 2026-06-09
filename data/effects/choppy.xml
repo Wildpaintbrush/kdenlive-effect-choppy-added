@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE kpartgui>
+<effect xmlns="https://www.kdenlive.org" tag="Choppy" id="Choppy">
+    <name>Choppy</name>
+    <description>Makes the Framerate Choppier</description>
+    <author>Dan Dennedy</author>
+    <parameter type="constant" name="repeat" default="0" min="0">
+        <name>Repeat</name>
+    </parameter>
+</effect>
