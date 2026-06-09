@@ -4,6 +4,7 @@ audiospectrum
 boxblur
 brightness
 charcoal
+choppy
 crop
 chroma
 frei0r.alphagrad
