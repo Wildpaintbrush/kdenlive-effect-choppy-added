@@ -295,7 +295,7 @@ avfilter.v360
 avfilter.vmafmotion
 avfilter.yaepblur
 cairoblend_mode
-choppy
+# choppy # Honestly, I have no idea why this is deemed "not useful" or whatever, but sure let's go with it!
 frei0r.delay0r
 motion_est
 vismv
